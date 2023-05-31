@@ -13,3 +13,6 @@ dev:
 	make up
 	cd webroot
 	yarn dev
+build:
+	cd webroot
+	yarn build
